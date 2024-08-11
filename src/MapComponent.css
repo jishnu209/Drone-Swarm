@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#map-canvas {
+    height: 400px;
+    width: 100%;
+    margin: 20px auto;
+}
+
+/* Style for the buttons */
+.button-container {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#marker-info,
+#geofence-info,
+#geofence-area {
+    text-align: center;
+    margin-top: 10px;
+}
