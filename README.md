@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Drone-Swarm
+ Drone Swarm Project , implementing algorithms and protocols with Python and the DroneKit Library. Responsibilities included programming drones for autonomous navigation, synchronised movement , and execution of flight plans. Successfully designed a Dynamic Task Allocation system for real-time task assignments.
+>>>>>>> 00d251990c62fda7e46bcd67153a1bf80b7206b4
